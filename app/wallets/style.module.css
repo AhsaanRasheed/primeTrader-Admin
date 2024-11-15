@@ -1,0 +1,20 @@
+.walletsContainer {
+    padding: 20px;
+  }
+  
+  .walletsTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .walletsTable th,
+  .walletsTable td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .walletsTable th {
+    background-color: #f4f4f4;
+  }
+  
